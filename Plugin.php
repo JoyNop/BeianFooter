@@ -3,6 +3,8 @@
  * 在博客底部输出 ICP 和公安备案信息，支持自定义链接和图标
  *
  * @package BeianFooter
+ * @author JoyNop
+ * @link https://github.com/JoyNop/BeianFooter
  * @version 1.0.0
  */
 class BeianFooter_Plugin implements Typecho_Plugin_Interface
