@@ -1,5 +1,9 @@
 # BeianFooter 插件
 
+[![作者](https://img.shields.io/badge/Author-JoyNop-blue?style=flat-square&logo=github)](https://github.com/JoyNop)  
+[![仓库](https://img.shields.io/badge/GitHub-Repository-black?style=flat-square&logo=github&logoColor=white)](https://github.com/JoyNop/BeianFooter)  
+[![License](https://img.shields.io/github/license/JoyNop/BeianFooter?style=flat-square)](https://github.com/JoyNop/BeianFooter/blob/main/LICENSE)
+
 > 一个用于 Typecho 博客系统的备案信息展示插件，支持 **ICP 备案** 和 **公安备案** 信息在网页底部自动显示。
 
 ---
